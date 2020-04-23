@@ -1,0 +1,3 @@
+recursive-include pretix_segment/static *
+recursive-include pretix_segment/templates *
+recursive-include pretix_segment/locale *
